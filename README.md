@@ -1,5 +1,5 @@
 # Segmentation Analysis
-This is an Cohort Analysis that performs a Customer Segmentation using a clustering algorithms like K-Means to understand the purchasing behaviour of the customers of E-Shop Pro
+This is an Segmentation Analysis that using K-Means clustering algorithms to understand the purchasing behaviour of the customers of E-Shop Pro
 
 ![image](https://www.c5i.ai/wp-content/uploads/Approach-to-Segmentation-Analysis1-2.png)
 
